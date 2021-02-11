@@ -4,7 +4,9 @@ Sistema desenvolvido no primeiro semestre do curso de Ciência da Computação.
 # Sistema desenvolvido para um funcionário do banco. 
 ## Funcionalidades desenvolvidas
 * Opção de criar uma conta bancária ou acessar as consta existente no sistema bancário.
+
 * Na criação, usa-se um número de conta, saldo inicial, nome do titular.
+
 * Quando o funcionário acessa as informações da conta, ele pode ter acesso a:
 * Informações da conta;
 * Média dos saldos cadastrados no sistema;
